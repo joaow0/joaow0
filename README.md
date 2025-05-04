@@ -13,4 +13,4 @@ Eu sou desenvolvedor Full Stack, especializado em Python e Django. 🚀
 - [Meu repositório CRUD](https://github.com/joaow0/CRUD_v1) 📂
   
 ## 📱 Me encontre:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-blue?logo=linkedin)](https://bit.ly/joaopedrosabino)
+[![LinkedIn](https://bit.ly/joaopedrosabino)]
