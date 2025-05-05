@@ -3,7 +3,7 @@
 
 👨‍💻 Full Stack Developer | Python Enthusiast | Open Source Lover  
 🚀 Criando projetos que resolvem problemas reais e me desafiam a evoluir  
-📂 Confira meus repositórios no GitHub: [github.com/SeuUsuario](https://github.com/SeuUsuario)
+📂 Confira meus repositórios no GitHub: [github.com/SeuUsuario](https://github.com/joaow0?tab=repositories)
 
 💡 Stack atual:  
 🐍 Python | 🌐 Flask & Django  
