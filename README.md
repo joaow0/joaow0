@@ -4,7 +4,7 @@
 👨‍💻 Full Stack Developer | Python Enthusiast | Open Source Lover  
 🌍 Exploring the world with a laptop and a curious mind  
 🚀 Building projects that solve real problems and push me to grow  
-📂 Check out my repositories: [github.com/YourUsername](https://github.com/YourUsername)
+📂 Check out my repositories: https://github.com/joaow0?tab=repositories
 
 💡 Current stack:  
 🐍 Python | 🌐 Flask & Django  
