@@ -11,5 +11,3 @@
 💾 SQL | 🐘 PostgreSQL  
 📡 APIs | 🔧 CRUD | 🔄 REST  
 
-📈 Always learning, testing, failing, and improving.  
-📬 Open to collaborations and fresh ideas!
